@@ -14,7 +14,7 @@ This is the actual GIF:
 ### ASCII GIF Version
 This is the ASCII version of the animation:
 
-![ASCII Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdjcGxvNGFkd3Qzdjdud3Jrb3o1enh1dDhhM3hhN2owdmJqMGh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uMaMAwQjpKn86BKGfW/giphy.gif)
+![ASCII Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThtMmJrbXFsNGVldjV6bXFucmczYTdsdDJsNWQ1YnBwaDZxdGdlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uMaMAwQjpKn86BKGfW/giphy.gif)
 
 Please note, while the program will resize your initial PNG or GIF, it is important to note that for best viewing you will have to tinker with your zoom settings on your terminal.
 
