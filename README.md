@@ -1,5 +1,5 @@
 # CFrames
-CFrames is a simple executeable that allows you to view any gif or png in your terminal as ASCII art.
+CFrames is a simple executable that allows you to view any gif or png in your terminal as ASCII art.
 ---
 
 ## Demo
